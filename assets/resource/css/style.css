@@ -1,0 +1,23 @@
+.form-resize{
+	border-radius: 0 !important;
+	height:40px !important;
+}
+.btn-red{
+	background-color: #626262;
+	color: white;
+}
+.gh{
+	background-color: #626262 !important;
+	color: white !important;
+	border: white !important;
+}
+@media screen and (min-width: 100px) and (max-width: 991px){
+	.sb{
+		margin-top: 30px !important;
+	}
+}
+@media screen and (min-width: 992px){
+	.btn-home{
+		width:250px !important;
+	}
+}

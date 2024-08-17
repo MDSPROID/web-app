@@ -1,0 +1,326 @@
+body{
+  font-size: 18px !important;
+  line-height: 1.5 !important;
+}
+#row-container{
+  padding-top:0px;
+}
+.img-header{
+  width:120%;
+  border-radius:40px;
+}
+.align-image{
+  writing-mode:vertical-rl;
+}
+.title-head{
+  margin-top: 80px;
+  margin-bottom: 30px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 4px #313131;
+}
+.tag-head{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 1px 7px black;
+}
+.head-5{
+  padding-top:20px;
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.head-4{
+  padding-top:20px;
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+}
+.head-3{
+  padding-top:50px;
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.head-2{
+  padding-top:50px;
+  padding-bottom: 0px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+p{
+  font-family: 'Poppins', sans-serif !important;
+  text-align: justify;
+  text-align-last: center;
+}
+#containerx{
+  background-image: url('../../assets/km/b050cc77-4d21-40da-8853-a49f334d6825.webp');
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height:110vh;
+  background-size: cover;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+  margin-bottom: 30px;
+}
+#content-container{
+  margin-bottom: 0px;
+  padding-right: 6rem !important;
+  padding-left: 6rem !important;
+}
+.img-radius{
+  width:90%;
+  border-radius:40px;
+}
+.p-head{
+  padding-top:80px;
+}
+.text-big{
+  text-align: center;
+  font-weight: bold;
+  padding-top:50px;
+  padding-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+}
+.imgleft{
+  overflow: hidden;
+  border-radius: 30px;
+}
+.imgleft img{
+  width: 115%;
+}
+.imgmiddle{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.imgmiddle img{
+  border-radius: 20px;
+  width: 90%;
+}
+.pl-0{
+  padding-left:0 !important;
+}
+.why{
+  padding-top: 150px;
+}
+.why img{
+  width: 50%;
+}
+.btn-whatsapp-cover{
+  background-color: #ffffff7a !important;
+  color: white !important;
+  padding: 15px 30px !important;
+  border-radius: 20px !important;
+  font-size: 25px !important;
+  text-shadow: 2px 1px 11px #3f3f3f;
+  backdrop-filter: blur(5px);
+  margin-top: 30px;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  border: 1px solid white !important;
+}
+.btn-whatsapp{
+  background-color:black !important;
+  color:white !important;
+  padding:10px 35px !important;
+  border-radius: 20px !important;
+  font-size:20px !important;
+  text-transform: uppercase;
+}
+.btn-whatsapp2{
+  border:1px solid #ff2d55 !important;
+  color:#ff2d55 !important;
+  padding:15px !important;
+  width: 50%;
+  border-radius: 20px !important;
+  font-size:25px !important;
+}
+.btn-whatsapp3{
+  background-color:#ff2d55 !important;
+  color:white !important;
+  padding:15px !important;
+  width: 70% !important;
+  border-radius: 20px !important;
+  font-size:25px !important;
+}
+.head-4-p p {
+  text-align: justify;
+}
+.rotateslider-container .arrow{
+  height:auto !important;
+}
+.font-price{
+  font-size:24px;
+  vertical-align: top;
+  text-transform:uppercase;
+}
+.ic{
+  font-size:32px !important;
+}
+.font-price-grey{
+  font-weight: 300 !important;
+  font-size:20px;
+  color:grey;
+}
+.font-angka{
+  font-size: 72px;
+  align-items: baseline;
+}
+.label-sering{
+  background-color: black;
+  color:white;
+  padding:8px 15px;;
+  border-radius:15px;
+  float:right;
+}
+.ok{
+  font-size: 16px !important;
+  margin-bottom: 50px;
+}
+.best{
+  border-radius: 30px;
+  font-weight:bold;
+  padding: 30px;
+  box-shadow: 4px 3px 7px 3px #8b8b8b;
+}
+.opsi{
+  font-weight:bold;
+  padding-left: 60px;
+}
+#what {
+  padding-left: 0px;
+}
+#what li{
+  list-style: unset;
+}
+.lgk{
+  height: 110px !important;
+}
+.paddtitlehead{
+  padding: 0px 300px !important;
+}
+.fasilitas li{
+  font-family: 'Poppins', sans-serif;
+}
+@media screen and (min-width: 100px) and (max-width: 991px){
+    .font-price{
+        font-size:20px;
+    }
+    .ok{
+        margin-bottom:20px;
+    }
+    .best a{
+        font-size:12px !important;
+    }
+    .font-angka{
+        font-size:35px;
+    }
+    .label-sering{
+        font-size: 12px;
+    }
+    .ic{
+      font-size:24px !important;
+    }
+    p{
+        letter-spacing: 1px;
+        word-spacing: 5px;     
+    }
+  .btn-whatsapp-cover{
+    background-color: #ffffff00 !important;
+    border-radius: 15px !important;
+    padding: 10px 20px !important;
+    font-size: 12px !important;
+    backdrop-filter: blur(5px);
+    margin-top: 60px;
+  }
+  .paddtitlehead{
+    padding: 0px 30px !important;
+  }
+  .lgk{
+    height: 65px !important;
+  }
+  #containerx{
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+    height: 50vh;
+  }
+  #row-container{
+    padding-top:30px;
+  }
+  .title-head{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .tag-head{
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  .img-header{
+    width: 100%;
+    border-radius:20px;
+  }
+  #content-container{
+    margin-top: 0px;
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+  }
+  .img-radius{
+    width: 100%;
+  }
+  .head-3{
+    padding-top: 10px;
+    font-size: 25px;
+  }
+  .p-head{
+    padding-top: 10px;
+  }
+  .text-big{
+    font-size: 18px;
+  }
+  .imgleft{
+    border-radius: 10px;
+  }
+  .imgleft img{
+    width: 135%;
+  }
+  .imgmiddle img{
+    border-radius: 10px;
+  }
+  .why{
+    padding-top: 0px;
+  }
+  .why img{
+    width:100%;
+    border-radius: 20px;
+  }
+  .head-2{
+    font-size: 25px;
+  }
+  .fasilitas li{
+    font-size: 12px;
+  }
+  .fasilitas li img{
+    display:none;
+  }
+  .opsi{
+    padding-left:15px;
+  }
+}
